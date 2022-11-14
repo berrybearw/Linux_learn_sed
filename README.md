@@ -49,4 +49,22 @@ sed 和 tr 取代 不同處
 ---
 ![image](https://user-images.githubusercontent.com/96226780/201519314-ef497037-ad04-4513-9447-594a58738db1.png)  
 
+排序後存取
+---
+![image](https://user-images.githubusercontent.com/96226780/201591075-70525f1b-ef12-4d8b-a2db-39496da44585.png)
+
+處理最後一個特殊字詞
+---
+![image](https://user-images.githubusercontent.com/96226780/201591145-0c2f1e1f-99a5-4ee5-a2d3-5a2ed915462a.png)
+
+假設最後一個 }, 要改成 }
+
+![image](https://user-images.githubusercontent.com/96226780/201591171-536322ac-e286-41cc-8072-6281a629f33d.png)
+
+先用 grep 找出第幾行
+
+![image](https://user-images.githubusercontent.com/96226780/201591253-39764c7c-0059-4834-8940-cde33a171b37.png)
+
+截取出 行號
+![image](https://user-images.githubusercontent.com/96226780/201591365-64b4e982-5f0b-42e2-b9e3-f66b18381da3.png)
 
