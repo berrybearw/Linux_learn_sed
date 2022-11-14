@@ -66,5 +66,6 @@ sed 和 tr 取代 不同處
 ![image](https://user-images.githubusercontent.com/96226780/201591253-39764c7c-0059-4834-8940-cde33a171b37.png)
 
 截取出 行號
+
 ![image](https://user-images.githubusercontent.com/96226780/201591365-64b4e982-5f0b-42e2-b9e3-f66b18381da3.png)
 
